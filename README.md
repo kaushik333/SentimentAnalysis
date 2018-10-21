@@ -1,3 +1,3 @@
-# SentimentAnalysis
+# Sentiment Analysis and Spam Classification | Gated Recurrent Unit | PyTorch
 
-Sentiment Analysis using GRU
+Sentiment Analysis and Spam Classification using GRU. 
